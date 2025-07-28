@@ -1,3 +1,6 @@
+## NOTE: This a fork of verl by cgft to allow it to use benchmax sandboxes.
+
+
 <div align="center">
  👋 Hi, everyone! 
     verl is a RL training library initiated by <b>ByteDance Seed team</b> and maintained by the verl community.
